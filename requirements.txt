@@ -1,0 +1,23 @@
+# FastAPI framework
+fastapi
+uvicorn
+
+# Pydantic for data validation
+pydantic
+
+# Audio processing libraries
+sounddevice
+soundfile
+scipy
+numpy
+
+# Transformers and Groq integration
+torch
+transformers
+langchain
+langchain_core
+langchain_groq
+groq
+
+# Text-to-Speech library
+TTS
